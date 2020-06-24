@@ -1,2 +1,7 @@
 .ipynb_checkpoints/
 .venv/
+*/data/
+model.pth
+model_checpoint.pth
+model_serialisation.pkl
+model_state_dict.pt
